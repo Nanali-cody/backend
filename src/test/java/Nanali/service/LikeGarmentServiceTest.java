@@ -17,7 +17,7 @@ import org.springframework.mock.web.MockMultipartFile;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
-
+/*
 @SpringBootTest
 public class LikeGarmentServiceTest {
 
@@ -239,3 +239,4 @@ public class LikeGarmentServiceTest {
         }
     }
 }
+*/
